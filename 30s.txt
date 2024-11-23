@@ -1,0 +1,2 @@
+inap 200
+bakanap 56

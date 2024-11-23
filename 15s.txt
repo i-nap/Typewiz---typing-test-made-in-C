@@ -1,0 +1,4 @@
+bakanap 60
+bakanap 72
+sanji 24
+bakanap 8
